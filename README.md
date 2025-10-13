@@ -4,7 +4,7 @@
 
 <p align="center">
   🌟 <b>IT Undergraduate @ SLIIT Northern University</b>  
-  💻 <b>Full Stack Developer (Django + React)</b>  
+  💻 <b>Full Stack Developer</b>  
 </p>
 
 ---
