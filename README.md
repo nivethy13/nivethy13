@@ -46,7 +46,7 @@ I enjoy transforming ideas into user-friendly digital products while continuousl
 
 | 💼 Project | 🧩 Tech Stack | 📝 Description |
 |-------------|---------------|----------------|
-| 🧑‍💻 [**Online Examination System**](https://github.com/nivethy13/OnlineExaminationSystem) | Django + React | A smart exam platform with question management, timer, and PDF-based results |
+| 🧑‍💻 [**Online Examination System For Employees**](https://github.com/nivethy13/Online-Examination.git) | Django + React | A smart exam platform with question management, timer, and PDF-based results |
 | 🏨 [**Jaffna Cultural Centre – Hall Booking System**](https://github.com/nivethy13/JCC-HallBooking) | Django + React | Handles hall bookings, online payments, admin management, and notifications |
 | 🛒 [**Zest Mart – Online Grocery System**](https://github.com/nivethy13/ZestMart) | JSP + MySQL | User-friendly grocery platform with product CRUD and admin control panel |
 
