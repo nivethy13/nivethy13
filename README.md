@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00C1D4">Nivethika</span>!</h1>
 
 <p align="center">
-  🌟 <b>IT Undergraduate @ SLIIT Northern University</b>  
+  🌟 <b>IT Undergraduate @ SLIIT Northern Uni</b>  
   💻 <b>Full Stack Developer</b>  
 </p>
 
