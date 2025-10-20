@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00C1D4">Nivethika</span>!</h1>
 
