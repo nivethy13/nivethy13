@@ -21,7 +21,7 @@ I enjoy transforming ideas into user-friendly digital products while continuousl
 ### 🧠 Tech Stack
 
 #### 💻 Languages & Frameworks
-`Python` • `Java` • `JavaScript` • `HTML` • `CSS` • `SQL` • `Django` • `React` • `Node.js` • `Express.js`
+`Python` • `Java` • `JavaScript` • `HTML` • `CSS` • `SQL` • `Django` • `React` • `Node.js` 
 
 #### 🧰 Tools & Platforms
 `MySQL` • `Git` • `GitHub` • `VS Code` • `Postman` • `Figma` • `Tailwind CSS`
@@ -34,10 +34,10 @@ I enjoy transforming ideas into user-friendly digital products while continuousl
 
 ### 🚀 Currently Exploring
 
-- 🌐 **Advanced React Patterns** (Hooks, Context, Redux)  
+- 🌐 **Advanced React Patterns** (Hooks, Context, Components)  
 - ⚙️ **Django REST Framework & API Integration**  
 - 🎨 **Modern UI/UX Design using Tailwind + Figma**  
-- ☁️ **Deployments on Render, Netlify, and Vercel**  
+- ☁️ **Deployments on Render and Vercel**  
 - 🤖 **AI Integration with Django Projects**
 
 ---
@@ -46,9 +46,9 @@ I enjoy transforming ideas into user-friendly digital products while continuousl
 
 | 💼 Project | 🧩 Tech Stack | 📝 Description |
 |-------------|---------------|----------------|
-| 🧑‍💻 [**Online Examination System For Employees**](https://github.com/nivethy13/Online-Examination.git) | Django + React | A smart exam platform with question management, timer, and PDF-based results |
-| 🏨 [**Jaffna Cultural Centre – Hall Booking System**](https://github.com/nivethy13/JCC-HallBooking) | Django + React | Handles hall bookings, online payments, admin management, and notifications |
-| 🛒 [**Zest Mart – Online Grocery System**](https://github.com/nivethy13/ZestMart) | JSP + MySQL | User-friendly grocery platform with product CRUD and admin control panel |
+| 🧑‍💻 [**Online Examination System For Employees**](https://github.com/nivethy13/Online-Examination) | Djan| A smart exam platform with question management, result management|
+| 🏨 [**Jaffna Cultural Centre – Hall Booking System**](https://github.com/nivethy13/JTCC) | Django + React | Handles hall bookings, online payments, admin management, and notifications |
+| 🛒 [**Zest Mart – Online Grocery System**](https://github.com/nivethy13/ZESTY_MART) | JSP + MySQL | User-friendly grocery platform with product CRUD and admin control panel |
 
 ---
 
