@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#00C1D4">Nivethika</span>!</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00C1D4">Nivethika Vigneswaran</span>!</h1>
 
 <p align="center">
   🌟 <b>IT Undergraduate @ SLIIT Northern Uni</b>  
@@ -11,7 +11,7 @@
 
 ### 💫 About Me
 
-I’m a **second-year IT undergraduate** passionate about building creative and efficient **full-stack web applications** using modern technologies like Django and React.  
+I’m a **third-year IT undergraduate** passionate about building creative and efficient **full-stack web applications** using modern technologies like Django and React.  
 I enjoy transforming ideas into user-friendly digital products while continuously learning about **AI, system design, and UI/UX.**
 
 ✨ *"Code. Create. Collaborate. Continue growing."*  
@@ -47,7 +47,7 @@ I enjoy transforming ideas into user-friendly digital products while continuousl
 | 💼 Project | 🧩 Tech Stack | 📝 Description |
 |-------------|---------------|----------------|
 | 🧑‍💻 [**Online Examination System For Employees**](https://github.com/nivethy13/Online-Examination) | HTML + CSS + JS + PHP | A smart exam platform with question management, result management|
-| 🏨 [**Jaffna Cultural Centre – Hall Booking System**](https://github.com/nivethy13/JTCC) | Django + React | Handles hall bookings, online payments, admin management, and notifications |
+| 🏨 [**Jaffna Cultural Centre – Hall Booking System**](https://github.com/Keerthanan14/EventAura) | Django + React | Handles hall bookings, online payments, admin management, and notifications |
 | 🛒 [**Zest Mart – Online Grocery System**](https://github.com/nivethy13/ZESTY_MART) | JSP + MySQL | User-friendly grocery platform with product CRUD and admin control panel |
 
 ---
